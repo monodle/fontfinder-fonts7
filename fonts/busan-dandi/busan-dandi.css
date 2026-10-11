@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'busandandigothicb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandigothicb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandigothicl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandigothicl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandigothicm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandigothicm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandimyeongjob';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandimyeongjob.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandimyeongjol';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandimyeongjol.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandimyeongjom';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandimyeongjom.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'busandandiscript';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandiscript.woff2') format('woff2');
+}

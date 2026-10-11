@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'bitgoeul';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./bitgoeul-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'bitgoeul';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./bitgoeul-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'bitgoeul';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./bitgoeul-bold.woff2') format('woff2');
+}

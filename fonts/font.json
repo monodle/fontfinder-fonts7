@@ -1,0 +1,2689 @@
+{
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts",
+  "fonts": [
+    {
+      "id": "bookkgothic",
+      "family": "bookkgothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/bookk/bookkgothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 8,
+          "armStyle": 2,
+          "letterform": 5,
+          "midline": 2,
+          "xHeight": 2
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Font Family": {
+          "ko": "부크크 고딕 Bold",
+          "en": "Bookk Gothic"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "ko": "BookkGothic-Bd",
+          "en": "BookkGothic-Bd"
+        },
+        "Full Font Name": {
+          "ko": "부크크 고딕 Bold",
+          "en": "Bookk Gothic Bold"
+        },
+        "Version": {
+          "ko": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599",
+          "en": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599"
+        },
+        "PostScript Name": {
+          "ko": "BookkGothic-Bd",
+          "en": "BookkGothic-Bd"
+        },
+        "Typographic Family": {
+          "ko": "부크크 고딕",
+          "en": "Bookk Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Copyright": {
+          "en": "Copyright (c) Bookk Co, Ltd. All rights reserved."
+        },
+        "Trademark": {
+          "en": "Bookk Gothic is a trademark of Bookk."
+        },
+        "Manufacturer": {
+          "ko": "Sandoll Tium Inc.",
+          "en": "Sandoll Tium Inc."
+        },
+        "Designer": {
+          "ko": "권경석; 임선영;",
+          "en": "Kweon Kyoung-Seok; Im Sun Young;"
+        },
+        "URL Vendor": {
+          "ko": "http://www.sandolltium.co.kr",
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "Bookk"
+        },
+        "License Info URL": {
+          "en": "https://Bookk.io/"
+        }
+      }
+    },
+    {
+      "id": "bookkmyungjo",
+      "family": "bookkmyungjo",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/bookk/bookkmyungjo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 6,
+          "proportion": 4,
+          "contrast": 5,
+          "strokeVariation": 5,
+          "armStyle": 5,
+          "letterform": 2,
+          "midline": 3,
+          "xHeight": 4
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Font Family": {
+          "ko": "부크크 명조 Bold",
+          "en": "Bookk Myungjo"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "ko": "BookkMyungjo-Bd",
+          "en": "BookkMyungjo-Bd"
+        },
+        "Full Font Name": {
+          "ko": "부크크 명조 Bold",
+          "en": "Bookk Myungjo Bold"
+        },
+        "Version": {
+          "ko": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599",
+          "en": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599"
+        },
+        "PostScript Name": {
+          "ko": "BookkMyungjo-Bd",
+          "en": "BookkMyungjo-Bd"
+        },
+        "Typographic Family": {
+          "ko": "부크크 명조",
+          "en": "Bookk Myungjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Copyright": {
+          "en": "Copyright (c) Bookk Co, Ltd. All rights reserved."
+        },
+        "Trademark": {
+          "en": "Bookk Myungjo is a trademark of Bookk."
+        },
+        "Manufacturer": {
+          "ko": "Sandoll Tium Inc.",
+          "en": "Sandoll Tium Inc."
+        },
+        "Designer": {
+          "ko": "권경석; 임선영;",
+          "en": "Kweon Kyoung-Seok; Im Sun Young;"
+        },
+        "URL Vendor": {
+          "ko": "http://www.sandolltium.co.kr",
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "Bookk"
+        },
+        "License Info URL": {
+          "en": "https://Bookk.io/"
+        }
+      }
+    },
+    {
+      "id": "busandandigothicb",
+      "family": "busandandigothicb",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandigothicb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디고딕B",
+          "en": "BusanDandiGothicB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiGothicB"
+        },
+        "Full Font Name": {
+          "ko": "부산단디고딕B",
+          "en": "BusanDandiGothicB"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260929"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiGothicB"
+        },
+        "Trademark": {
+          "en": "BusanDandiGothicB is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Mirae Kim"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디고딕",
+          "en": "BusanDandiGothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "busandandigothicl",
+      "family": "busandandigothicl",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandigothicl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디고딕L",
+          "en": "BusanDandiGothicL"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiGothicL"
+        },
+        "Full Font Name": {
+          "ko": "부산단디고딕L",
+          "en": "BusanDandiGothicL"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260929"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiGothicL"
+        },
+        "Trademark": {
+          "en": "BusanDandiGothicL is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Mirae Kim"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디고딕",
+          "en": "BusanDandiGothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "busandandigothicm",
+      "family": "busandandigothicm",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandigothicm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디고딕M",
+          "en": "BusanDandiGothicM"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiGothicM"
+        },
+        "Full Font Name": {
+          "ko": "부산단디고딕M",
+          "en": "BusanDandiGothicM"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260929"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiGothicM"
+        },
+        "Trademark": {
+          "en": "BusanDandiGothicM is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Mirae Kim"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디고딕",
+          "en": "BusanDandiGothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "busandandimyeongjob",
+      "family": "busandandimyeongjob",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandimyeongjob.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디명조B",
+          "en": "BusanDandiMyeongjoB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiMyeongjoB"
+        },
+        "Full Font Name": {
+          "ko": "부산단디명조B",
+          "en": "BusanDandiMyeongjoB"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260930"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiMyeongjoB"
+        },
+        "Trademark": {
+          "en": "BusanDandiMyeongjoB is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Woobin Song"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디명조",
+          "en": "BusanDandiMyeongjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "busandandimyeongjol",
+      "family": "busandandimyeongjol",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandimyeongjol.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디명조L",
+          "en": "BusanDandiMyeongjoL"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiMyeongjoL"
+        },
+        "Full Font Name": {
+          "ko": "부산단디명조L",
+          "en": "BusanDandiMyeongjoL"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260930"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiMyeongjoL"
+        },
+        "Trademark": {
+          "en": "BusanDandiMyeongjoL is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Woobin Song"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디명조",
+          "en": "BusanDandiMyeongjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "busandandimyeongjom",
+      "family": "busandandimyeongjom",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandimyeongjom.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디명조M",
+          "en": "BusanDandiMyeongjoM"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiMyeongjoM"
+        },
+        "Full Font Name": {
+          "ko": "부산단디명조M",
+          "en": "BusanDandiMyeongjoM"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260930"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiMyeongjoM"
+        },
+        "Trademark": {
+          "en": "BusanDandiMyeongjoM is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Woobin Song"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "부산단디명조",
+          "en": "BusanDandiMyeongjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "busandandiscript",
+      "family": "busandandiscript",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/busan-dandi/busandandiscript.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 2,
+          "contrast": 4,
+          "strokeVariation": 5,
+          "armStyle": 4,
+          "letterform": 2,
+          "midline": 2,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Busan Metropolitan City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "부산단디손글씨",
+          "en": "BusanDandiScript"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI;BusanDandiScript"
+        },
+        "Full Font Name": {
+          "ko": "부산단디손글씨",
+          "en": "BusanDandiScript"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20260929"
+        },
+        "PostScript Name": {
+          "en": "BusanDandiScript"
+        },
+        "Trademark": {
+          "en": "BusanDandiScript is a trademark of Busan Metropolitan City."
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "en": "Jeongeun Lee, Yehyeong Lee"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.busan.go.kr/"
+        }
+      }
+    },
+    {
+      "id": "chab",
+      "family": "chab",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/chab_ddag_otf/chab.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.ddungsang.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 LOTTE GRS CO.,LTD ALL RIGHT RESERVED",
+          "en": "Copyright © 2022 LOTTE GRS CO.,LTD ALL RIGHT RESERVED"
+        },
+        "Font Family": {
+          "ko": "롯데리아 촵땡겨체",
+          "en": "LOTTERIA CHAB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;LOTTERIACHAB"
+        },
+        "Full Font Name": {
+          "ko": "롯데리아 촵땡겨체",
+          "en": "LOTTERIA CHAB"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20221128"
+        },
+        "PostScript Name": {
+          "en": "LOTTERIACHAB"
+        },
+        "Trademark": {
+          "en": "LOTTERIA CHAB is a trademark of LOTTE GRS CO.,LTD."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Choi Chi-young, Lee Sang-min, Kim Jung-jin, Kim Min-ju, Lee Byung-hun, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.ddungsang.com"
+        },
+        "Typographic Family": {
+          "ko": "롯데리아 촵땡겨체",
+          "en": "LOTTERIA CHAB"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "chagokr",
+      "family": "chagokr",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/chagokr/chagokr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2020 by kofta. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "문화재돌봄체 Regular",
+          "en": "MunhwajaeDolbom Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MunhwajaeDolbom Regular"
+        },
+        "Full Font Name": {
+          "ko": "문화재돌봄체 Regular",
+          "en": "MunhwajaeDolbom Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "MunhwajaeDolbom Regular"
+        },
+        "Trademark": {
+          "en": "MunhwajaeDolbom Regular is a trademark of kofta."
+        },
+        "Manufacturer": {
+          "en": "kofta"
+        },
+        "Designer": {
+          "en": "Taeyeong Jeong; Mijin Choi;"
+        },
+        "License Description": {
+          "en": "Korea Foundation for the Traditional Architechure and Technology"
+        },
+        "Typographic Family": {
+          "ko": "문화재돌봄체 Regular",
+          "en": "MunhwajaeDolbom Regular"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "ddag",
+      "family": "ddag",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/chab_ddag_otf/ddag.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.ddungsang.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 LOTTE GRS CO.,LTD ALL RIGHT RESERVED",
+          "en": "Copyright © 2022 LOTTE GRS CO.,LTD ALL RIGHT RESERVED"
+        },
+        "Font Family": {
+          "ko": "롯데리아 딱붙어체",
+          "en": "LOTTERIA DDAG"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;LOTTERIADDAG"
+        },
+        "Full Font Name": {
+          "ko": "롯데리아 딱붙어체",
+          "en": "LOTTERIA DDAG"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20221128"
+        },
+        "PostScript Name": {
+          "en": "LOTTERIADDAG"
+        },
+        "Trademark": {
+          "en": "LOTTERIA DDAG is a trademark of LOTTE GRS CO.,LTD."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Choi Chi-young, Lee Sang-min, Kim Jung-jin, Kim Min-ju, Lee Byung-hun, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.ddungsang.com"
+        },
+        "Typographic Family": {
+          "ko": "롯데리아 딱붙어체",
+          "en": "LOTTERIA DDAG"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gwangjugokr",
+      "family": "bitgoeul",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/gwangjugokr/gwangjugokr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 광주광역시. All rights reserved.",
+          "en": "Copyright (c) 광주광역시. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빛고을광주_Bold",
+          "en": "Bitgoeul_Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "빛고을광주_Bold Regular",
+          "en": "Bitgoeul_Bold Regular"
+        },
+        "Full Font Name": {
+          "ko": "빛고을광주_Bold",
+          "en": "Bitgoeul_Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "Bitgoeul_Bold",
+          "en": "Bitgoeul_Bold"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        },
+        "Typographic Family": {
+          "ko": "빛고을광주_Bold",
+          "en": "Bitgoeul_Bold"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "iscuackr",
+      "family": "iscu",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "2.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/iscuackr/iscuackr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 4,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 250,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.iscu.ac.kr//",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2024 by Seoul Cyber University All rights reserved.",
+          "en": "Copyright (c) 2024 by Seoul Cyber University All rights reserved."
+        },
+        "Font Family": {
+          "ko": "서울사이버대학체_OTF 1 Thin",
+          "en": "서울사이버대학체_OTF 1 Thin"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "iscu_1T_OTF",
+          "en": "iscu_1T_OTF"
+        },
+        "Full Font Name": {
+          "ko": "서울사이버대학체_OTF 1 Thin",
+          "en": "서울사이버대학체_OTF 1 Thin"
+        },
+        "Version": {
+          "ko": "version 2.0",
+          "en": "version 2.0"
+        },
+        "PostScript Name": {
+          "ko": "iscu_1T_OTF",
+          "en": "iscu_1T_OTF"
+        },
+        "Trademark": {
+          "ko": "서울사이버대학체_OTF",
+          "en": "서울사이버대학체_OTF"
+        },
+        "Manufacturer": {
+          "ko": "Seoul Cyber University",
+          "en": "Seoul Cyber University"
+        },
+        "Designer": {
+          "ko": "Seoul Cyber University",
+          "en": "Seoul Cyber University"
+        },
+        "URL Vendor": {
+          "ko": "https://www.iscu.ac.kr//",
+          "en": "https://www.iscu.ac.kr//"
+        },
+        "License Description": {
+          "ko": "Seoul Cyber University",
+          "en": "Seoul Cyber University"
+        },
+        "License Info URL": {
+          "ko": "http://www.junglesystem.com/",
+          "en": "http://www.junglesystem.com/"
+        },
+        "Typographic Family": {
+          "ko": "서울사이버대학체_OTF",
+          "en": "서울사이버대학체_OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "1 Thin",
+          "en": "1 Thin"
+        }
+      }
+    },
+    {
+      "id": "laundrygothic",
+      "family": "laundrygothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/laundrygothic/laundrygothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) Lifegoeson. Corp. All Rights Reserved.",
+          "en": "Copyright (c) Lifegoeson. Corp. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "런드리고딕OTF Regular",
+          "en": "LaundryGothicOTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "LaundryGothicOTF Regular"
+        },
+        "Full Font Name": {
+          "ko": "런드리고딕OTF Regular",
+          "en": "LaundryGothicOTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTLaundryGothicR"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "런드리고딕OTF",
+          "en": "LaundryGothicOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "min-sans",
+      "family": "minsans",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.400",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/min-sans/min-sans.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://scripts.sil.org/OFL",
+      "metadata": {
+        "Font Family": {
+          "en": "Min Sans"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Full Font Name": {
+          "en": "Min Sans Regular"
+        },
+        "Version": {
+          "en": "Version 1.400;Glyphs 3.1.2 (3151)"
+        },
+        "PostScript Name": {
+          "en": "MinSans-Regular"
+        },
+        "URL Vendor": {
+          "en": "poposnail@kakao.com"
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        },
+        "Copyright": {
+          "en": "Copyright 2020"
+        },
+        "Unique Font Identifier": {
+          "en": "1.400;UKWN;MinSans-Regular"
+        },
+        "Trademark": {
+          "en": "Min Sans is a trademark of Jinseong Kim."
+        },
+        "Manufacturer": {
+          "en": "Jinseong-Kim"
+        },
+        "Designer": {
+          "en": "Jinseong-Kim, NotoSansCJK, Nunito"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+        },
+        "Typographic Family": {
+          "en": "Min Sans"
+        },
+        "Typographic Subfamily": {
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "miwon",
+      "family": "miwon",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/miwon/miwon.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://leedotype.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright 2022 DAESANG. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "미원체",
+          "en": "Miwon"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Full Font Name": {
+          "ko": "미원체",
+          "en": "Miwon"
+        },
+        "Version": {
+          "en": "Version 1.000;FEAKit 1.0"
+        },
+        "PostScript Name": {
+          "en": "Miwon"
+        },
+        "Typographic Family": {
+          "ko": "미원체",
+          "en": "Miwon"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;LDTP;Miwon"
+        },
+        "Trademark": {
+          "en": "Miwon is a trademark of DAESANG."
+        },
+        "Manufacturer": {
+          "ko": "주식회사 이도타입",
+          "en": "Leedotype Co., Ltd."
+        },
+        "Designer": {
+          "ko": "스튜디오좋: 송재원; 송민우; & 이도타입: 이도희; 서예지;",
+          "en": "STUDIOK110: Jaewon Song; Minwoo Song; & Leedotype: Dohee Lee; Yeji Seo;"
+        },
+        "URL Vendor": {
+          "en": "https://leedotype.com"
+        },
+        "License Info URL": {
+          "en": "https://www.miwon.co.kr"
+        }
+      }
+    },
+    {
+      "id": "munmak-byeolbanche",
+      "family": "munmak_byeolbanche",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/munmak/munmak_byeolbanche.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2025 강원도 원주시. All right reserved.",
+          "en": "Copyright 2025 강원도 원주시. All right reserved."
+        },
+        "Font Family": {
+          "ko": "문막초 별반체",
+          "en": "MUNMAK_BYEOLBANCHE"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MUNMAK_BYEOLBANCHE:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "문막초 별반체",
+          "en": "MUNMAK_BYEOLBANCHE"
+        },
+        "Version": {
+          "ko": "Version 1.00 July 23, 2025",
+          "en": "Version 1.00 July 23, 2025, initial release"
+        },
+        "PostScript Name": {
+          "en": "MUNMAK_BYEOLBANCHE"
+        },
+        "Trademark": {
+          "en": "seoul100info@gmail.com"
+        },
+        "Manufacturer": {
+          "en": "(주)마이너스플러스백"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "anidaon"
+        },
+        "URL Vendor": {
+          "en": "seoul100info@gmail.com"
+        },
+        "License Description": {
+          "ko": "강원도 원주시",
+          "en": "seoul100info@gmail.com"
+        },
+        "License Info URL": {
+          "ko": "seoul100info@gmail.com",
+          "en": "seoul100info@gmail.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "munmak-dalbanche",
+      "family": "munmak_dalbanche",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/munmak/munmak_dalbanche.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2025 강원도 원주시. All right reserved.",
+          "en": "Copyright 2025 강원도 원주시. All right reserved."
+        },
+        "Font Family": {
+          "ko": "문막초 달반체",
+          "en": "MUNMAK_DALBANCHE"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MUNMAK_DALBANCHE:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "문막초 달반체",
+          "en": "MUNMAK_DALBANCHE"
+        },
+        "Version": {
+          "ko": "Version 1.00 July 23, 2025",
+          "en": "Version 1.00 July 23, 2025, initial release"
+        },
+        "PostScript Name": {
+          "en": "MUNMAK_DALBANCHE"
+        },
+        "Trademark": {
+          "en": "seoul100info@gmail.com"
+        },
+        "Manufacturer": {
+          "en": "(주)마이너스플러스백"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "anidaon"
+        },
+        "URL Vendor": {
+          "en": "seoul100info@gmail.com"
+        },
+        "License Description": {
+          "ko": "강원도 원주시",
+          "en": "seoul100info@gmail.com"
+        },
+        "License Info URL": {
+          "ko": "seoul100info@gmail.com",
+          "en": "seoul100info@gmail.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "munmak-haebanche",
+      "family": "munmak_haebanche",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/munmak/munmak_haebanche.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2025 강원도 원주시. All right reserved.",
+          "en": "Copyright 2025 강원도 원주시. All right reserved."
+        },
+        "Font Family": {
+          "ko": "문막초 해반체",
+          "en": "MUNMAK_HAEBANCHE"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MUNMAK_HAEBANCHE:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "문막초 해반체",
+          "en": "MUNMAK_HAEBANCHE"
+        },
+        "Version": {
+          "ko": "Version 1.00 July 23, 2025",
+          "en": "Version 1.00 July 23, 2025, initial release"
+        },
+        "PostScript Name": {
+          "en": "MUNMAK_HAEBANCHE"
+        },
+        "Trademark": {
+          "en": "seoul100info@gmail.com"
+        },
+        "Manufacturer": {
+          "en": "(주)마이너스플러스백"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "anidaon"
+        },
+        "URL Vendor": {
+          "en": "seoul100info@gmail.com"
+        },
+        "License Description": {
+          "ko": "강원도 원주시",
+          "en": "seoul100info@gmail.com"
+        },
+        "License Info URL": {
+          "ko": "seoul100info@gmail.com",
+          "en": "seoul100info@gmail.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "myarirang",
+      "family": "myarirang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/miryanggokr/myarirang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Miryang. All right reserved.",
+          "en": "Copyright 2021 Miryang. All right reserved."
+        },
+        "Font Family": {
+          "ko": "밀양아리랑체",
+          "en": "MYArirang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "en": "MYArirang Medium:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "밀양아리랑체",
+          "en": "MYArirang Medium"
+        },
+        "Version": {
+          "ko": "Version 1.00 December  29, 2021",
+          "en": "Version 1.00 December 30, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "MYArirang-Medium"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온커뮤니케이션(다온폰트)"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "Manufacturer": {
+          "en": "밀양시"
+        },
+        "License Description": {
+          "ko": "밀양시"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium"
+        }
+      }
+    },
+    {
+      "id": "myarirang-gothic",
+      "family": "myarirang_gothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/miryanggokr/myarirang_gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 300,
+        "widthClass": 3,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Miryang . All right reserved.",
+          "en": "Copyright 2021 Miryang . All right reserved."
+        },
+        "Font Family": {
+          "ko": "밀양아리랑고딕체",
+          "en": "MYArirang_gothic"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Light",
+          "en": "Light"
+        },
+        "Unique Font Identifier": {
+          "en": "MYArirang_gothic Light:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "밀양아리랑고딕체",
+          "en": "MYArirang_gothic Light"
+        },
+        "Version": {
+          "ko": "Version 1.00 December 29, 2021",
+          "en": "Version 1.00 December 29, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "MYArirang_gothic-Light"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온커뮤니케이션(다온폰트)"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "Manufacturer": {
+          "en": "밀양시"
+        },
+        "License Description": {
+          "ko": "밀양시"
+        },
+        "License Info URL": {
+          "ko": "www.daonfont.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light"
+        }
+      }
+    },
+    {
+      "id": "myhaemalgeunsangsang",
+      "family": "myhaemalgeunsangsang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/miryanggokr/myhaemalgeunsangsang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Miryang . All right reserved.",
+          "en": "Copyright 2021 Miryang . All right reserved."
+        },
+        "Font Family": {
+          "ko": "밀양해맑은상상체",
+          "en": "MYHaemalgeunSangsang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MYHaemalgeunSangsang:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "밀양해맑은상상체",
+          "en": "MYHaemalgeunSangsang"
+        },
+        "Version": {
+          "ko": "Version 1.00 December 29, 2021",
+          "en": "Version 1.00 December 29, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "MYHaemalgeunSangsang"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온커뮤니케이션(다온폰트)"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "Manufacturer": {
+          "en": "밀양시"
+        },
+        "License Description": {
+          "ko": "밀양시"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "myyeongnamnu",
+      "family": "myyeongnamnu",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/miryanggokr/myyeongnamnu.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Miryang . All right reserved.",
+          "en": "Copyright 2021 Miryang . All right reserved."
+        },
+        "Font Family": {
+          "ko": "밀양영남루체",
+          "en": "MYYeongnamnu"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "MYYeongnamnu:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "밀양영남루체",
+          "en": "MYYeongnamnu"
+        },
+        "Version": {
+          "ko": "Version 1.00 December 29, 2021",
+          "en": "Version 1.00 December 29, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "MYYeongnamnu"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온커뮤니케이션(다온폰트)"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "Manufacturer": {
+          "en": "밀양시"
+        },
+        "License Description": {
+          "ko": "밀양시"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "nanumfont-handwriting",
+      "family": "nanummiraenamu",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/nanumfont_handwriting/nanumfont_handwriting.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2019 NAVER Corporation. All rights reserved. Font created by CLOVA AI OCR Team."
+        },
+        "Font Family": {
+          "ko": "나눔손글씨 미래나무",
+          "en": "Nanum MiRaeNaMu"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "CLOVA OCR : Nanum MiRaeNaMu"
+        },
+        "Full Font Name": {
+          "ko": "나눔손글씨 미래나무",
+          "en": "Nanum MiRaeNaMu"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "NanumMiRaeNaMu"
+        },
+        "Typographic Family": {
+          "ko": "�����ձ۾� �̷�����"
+        }
+      }
+    },
+    {
+      "id": "rokmc",
+      "family": "rokmc",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/rokmc/rokmc.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "무적해병체 Regular",
+          "en": "Marines Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "무적해병체 Regular Regular",
+          "en": "Marines Regular Regular"
+        },
+        "Full Font Name": {
+          "ko": "무적해병체 Regular",
+          "en": "Marines Regular"
+        },
+        "Version": {
+          "ko": "Version 1.0 제작 : 대한민국 해병대 & 한그리아 , 디자이너 : 김진덕 , 김동규",
+          "en": "Version 1.0 제작 : 대한민국 해병대 & 한그리아 , 디자이너 : 김진덕 , 김동규"
+        },
+        "PostScript Name": {
+          "ko": "MarinesRegular",
+          "en": "MarinesRegular"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "vitro-core",
+      "family": "vitro-core",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "MIT",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/vitro_font/vitro-core.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Restricted License Embedding"
+      },
+      "homepage": "http://www.haksanlimited.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "� 2020. HAKSAN Limited All Rights Reserved.",
+          "en": "© 2020. HAKSAN Limited All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "비트로 코어 OTF",
+          "en": "VITRO CORE OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;JOON;VITRO-CORE-OTF"
+        },
+        "Full Font Name": {
+          "ko": "비트로 코어 OTF",
+          "en": "VITRO CORE OTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20201006"
+        },
+        "PostScript Name": {
+          "en": "VITRO-CORE-OTF"
+        },
+        "Trademark": {
+          "en": "VITRO CORE OTF is a trademark of HAKSAN."
+        },
+        "Manufacturer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "Designer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "URL Vendor": {
+          "en": "http://www.haksanlimited.com"
+        },
+        "License Description": {
+          "ko": "[라이선스]\r\n© 2020. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font(VITRO CORE, VITRO PRIDE).\r\n비트로 서체(비트로 코어, 비트로 프라이드)의 지적재산권을 포함한 모든 권리는 ‘㈜학산’에게 있습니다.\r\n\r\n[요약]\r\n가능 : 상업적 목적의 사용(사용범위 : 인쇄물, 광고물, 온라인, 영상 포함)\r\n불가능 : 스포츠관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적 사용, 모든 종류의 임베딩, CI, BI, 서브라이선스, 단독판매, 상표권 이용\r\n\r\n비트로 서체를 다운로드 받는 사용자는 아래의 모든 라이선스 조항에 동의한 것으로 간주합니다.\r\n비트로 서체는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공되며\r\n온/오프라인, 상품, 광고 등 상업적 목적으로 사용할 수 있습니다.\r\n단, 스포츠 관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적으로 사용을 금지합니다.\r\n비트로 서체 자체를 유료로 판매하거나, 어떠한 형태로든 임의 수정 및 개작하여 서체를 재배포 하는 것은 금지합니다.\r\n㈜학산(계열사포함)에 대하여 부정적 영향을 미칠 수 있거나 반사회적 제작물(음란물 등)에는 사용할 수 없습니다.\r\n비트로 서체를 사용한 결과물은 ㈜학산의 프로모션을 위해 활용 될 수 있습니다.\r\n이를 원치 않는 경우, 언제든지 당사에 요청하실 수 있습니다.\r\n\r\n문의 vitro_font@haksanlimited.com\r\n© 2020. HAKSAN Limited All Rights Reserved.",
+          "en": "[LICENSE]\r\n© 2020. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font (VITRO CORE, VITRO PRIDE).\r\n\r\n[Summary]\r\nPermission: Use for commercial purposes (range of use : Include Printouts, advertisements, online, video).\r\nProhibition: Commercial usage of sports-related industries (manufacturing of sports apparel, footwear and accessories, sports services, sports distribution), all kinds of embedding, CI, BI, sub-license, sole sale, trademark use.\r\n\r\nAll rights, including intellectual property rights of VITRO font(VITRO CORE, VITRO PRIDE), belong to HAKSAN Limited.\r\nThe user downloading the font as a bit will be deemed to have agreed to all of the license terms below.\r\nVITRO font is free to all users, including individual and corporate users.\r\nIt can be used for commercial purposes such as online/offline, merchandise, advertising, etc.\r\nHowever, the use is prohibited for commercial purposes in sports-related industries(sports apparel, footwear and accessories manufacturing, sports services, sports distribution).\r\nIt is prohibited to sell the font itself for a fee, or modifying it in any form and to redistribute the font.\r\nIt is prohibited to usage which might have a negative effect on HAKSAN Limited(including subsidiary) or anti-social productions(such as pornography).\r\nThe results that are using VITRO font can be used for promotion of HAKSAN Limited.\r\nIf you do not wish to do so, you can request it to us at any time.\r\n\r\nContact vitro_font@haksanlimited.com\r\n© 2020. HAKSAN Limited All Rights Reserved."
+        },
+        "License Info URL": {
+          "en": "http://www.vitro.co.kr/vitro/font.html"
+        },
+        "Typographic Family": {
+          "ko": "비트로 코어 OTF",
+          "en": "VITRO CORE OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Heavy",
+          "en": "Heavy"
+        }
+      }
+    },
+    {
+      "id": "vitro-inspire",
+      "family": "vitro-inspire",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "MIT",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/vitro_font/vitro-inspire.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 3,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.haksanlimited.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "� 2022. HAKSAN Limited All Rights Reserved.",
+          "en": "© 2022. HAKSAN Limited All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "비트로 인스파이어 OTF",
+          "en": "VITRO INSPIRE OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;JOON;VITRO-INSPIRE-OTF"
+        },
+        "Full Font Name": {
+          "ko": "비트로 인스파이어 OTF",
+          "en": "VITRO INSPIRE OTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20221002"
+        },
+        "PostScript Name": {
+          "en": "VITRO-INSPIRE-OTF"
+        },
+        "Trademark": {
+          "en": "VITRO INSPIRE OTF is a trademark of HAKSAN."
+        },
+        "Manufacturer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "Designer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "URL Vendor": {
+          "en": "http://www.haksanlimited.com"
+        },
+        "License Description": {
+          "ko": "[라이선스]\r\n© 2022. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font(VITRO CORE, VITRO PRIDE, VITRO INSPIRE).\r\n비트로 서체(비트로 코어, 비트로 프라이드, 비트로 인스파이어)의 지적재산권을 포함한 모든 권리는 ‘㈜학산’에게 있습니다.\r\n\r\n[요약]\r\n가능 : 상업적 목적의 사용(사용범위 : 인쇄물, 광고물, 온라인, 영상 포함)\r\n불가능 : 스포츠관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적 사용, 모든 종류의 임베딩, CI, BI, 서브라이선스, 단독판매, 상표권 이용\r\n\r\n비트로 서체를 다운로드 받는 사용자는 아래의 모든 라이선스 조항에 동의한 것으로 간주합니다.\r\n비트로 서체는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공되며\r\n온/오프라인, 상품, 광고 등 상업적 목적으로 사용할 수 있습니다.\r\n단, 스포츠 관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적으로 사용을 금지합니다.\r\n비트로 서체 자체를 유료로 판매하거나, 어떠한 형태로든 임의 수정 및 개작하여 서체를 재배포 하는 것은 금지합니다.\r\n㈜학산(계열사포함)에 대하여 부정적 영향을 미칠 수 있거나 반사회적 제작물(음란물 등)에는 사용할 수 없습니다.\r\n비트로 서체를 사용한 결과물은 ㈜학산의 프로모션을 위해 활용 될 수 있습니다.\r\n이를 원치 않는 경우, 언제든지 당사에 요청하실 수 있습니다.\r\n\r\n문의 vitro_font@haksanlimited.com\r\n© 2022. HAKSAN Limited All Rights Reserved.",
+          "en": "[LICENSE]\r\n© 2022. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font (VITRO CORE, VITRO PRIDE, VITRO INSPIRE).\r\n\r\n[Summary]\r\nPermission: Use for commercial purposes (range of use : Include Printouts, advertisements, online, video).\r\nProhibition: Commercial usage of sports-related industries (manufacturing of sports apparel, footwear and accessories, sports services, sports distribution), all kinds of embedding, CI, BI, sub-license, sole sale, trademark use.\r\n\r\nAll rights, including intellectual property rights of VITRO font(VITRO CORE, VITRO PRIDE, VITRO INSPIRE), belong to HAKSAN Limited.\r\nThe user downloading the font as a bit will be deemed to have agreed to all of the license terms below.\r\nVITRO font is free to all users, including individual and corporate users.\r\nIt can be used for commercial purposes such as online/offline, merchandise, advertising, etc.\r\nHowever, the use is prohibited for commercial purposes in sports-related industries(sports apparel, footwear and accessories manufacturing, sports services, sports distribution).\r\nIt is prohibited to sell the font itself for a fee, or modifying it in any form and to redistribute the font.\r\nIt is prohibited to usage which might have a negative effect on HAKSAN Limited(including subsidiary) or anti-social productions(such as pornography).\r\nThe results that are using VITRO font can be used for promotion of HAKSAN Limited.\r\nIf you do not wish to do so, you can request it to us at any time.\r\n\r\nContact vitro_font@haksanlimited.com\r\n© 2022. HAKSAN Limited All Rights Reserved."
+        },
+        "License Info URL": {
+          "en": "http://www.vitro.co.kr/vitro/font.html"
+        },
+        "Typographic Family": {
+          "ko": "비트로 인스파이어 OTF",
+          "en": "VITRO INSPIRE OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Heavy",
+          "en": "Heavy"
+        }
+      }
+    },
+    {
+      "id": "vitro-pride",
+      "family": "vitro-pride",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "MIT",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts/vitro_font/vitro-pride.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Restricted License Embedding"
+      },
+      "homepage": "http://www.haksanlimited.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "� 2020. HAKSAN Limited All Rights Reserved.",
+          "en": "© 2020. HAKSAN Limited All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "비트로 프라이드 OTF",
+          "en": "VITRO PRIDE OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;JOON;VITRO-PRIDE-OTF"
+        },
+        "Full Font Name": {
+          "ko": "비트로 프라이드 OTF",
+          "en": "VITRO PRIDE OTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20201006"
+        },
+        "PostScript Name": {
+          "en": "VITRO-PRIDE-OTF"
+        },
+        "Trademark": {
+          "en": "VITRO PRIDE OTF is a trademark of HAKSAN."
+        },
+        "Manufacturer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "Designer": {
+          "ko": "학산",
+          "en": "HAKSAN"
+        },
+        "URL Vendor": {
+          "en": "http://www.haksanlimited.com"
+        },
+        "License Description": {
+          "ko": "[라이선스]\r\n© 2020. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font(VITRO CORE, VITRO PRIDE).\r\n비트로 서체(비트로 코어, 비트로 프라이드)의 지적재산권을 포함한 모든 권리는 ‘㈜학산’에게 있습니다.\r\n\r\n[요약]\r\n가능 : 상업적 목적의 사용(사용범위 : 인쇄물, 광고물, 온라인, 영상 포함)\r\n불가능 : 스포츠관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적 사용, 모든 종류의 임베딩, CI, BI, 서브라이선스, 단독판매, 상표권 이용\r\n\r\n비트로 서체를 다운로드 받는 사용자는 아래의 모든 라이선스 조항에 동의한 것으로 간주합니다.\r\n비트로 서체는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공되며\r\n온/오프라인, 상품, 광고 등 상업적 목적으로 사용할 수 있습니다.\r\n단, 스포츠 관련업종(스포츠 의류, 신발 및 용품 제조업, 스포츠 서비스, 스포츠 유통)의 상업적 목적으로 사용을 금지합니다.\r\n비트로 서체 자체를 유료로 판매하거나, 어떠한 형태로든 임의 수정 및 개작하여 서체를 재배포 하는 것은 금지합니다.\r\n㈜학산(계열사포함)에 대하여 부정적 영향을 미칠 수 있거나 반사회적 제작물(음란물 등)에는 사용할 수 없습니다.\r\n비트로 서체를 사용한 결과물은 ㈜학산의 프로모션을 위해 활용 될 수 있습니다.\r\n이를 원치 않는 경우, 언제든지 당사에 요청하실 수 있습니다.\r\n\r\n문의 vitro_font@haksanlimited.com\r\n© 2020. HAKSAN Limited All Rights Reserved.",
+          "en": "[LICENSE]\r\n© 2020. HAKSAN Limited All Rights Reserved(https://www.haksanlimited.com)\r\nWith reserved font name VITRO font (VITRO CORE, VITRO PRIDE).\r\n\r\n[Summary]\r\nPermission: Use for commercial purposes (range of use : Include Printouts, advertisements, online, video).\r\nProhibition: Commercial usage of sports-related industries (manufacturing of sports apparel, footwear and accessories, sports services, sports distribution), all kinds of embedding, CI, BI, sub-license, sole sale, trademark use.\r\n\r\nAll rights, including intellectual property rights of VITRO font(VITRO CORE, VITRO PRIDE), belong to HAKSAN Limited.\r\nThe user downloading the font as a bit will be deemed to have agreed to all of the license terms below.\r\nVITRO font is free to all users, including individual and corporate users.\r\nIt can be used for commercial purposes such as online/offline, merchandise, advertising, etc.\r\nHowever, the use is prohibited for commercial purposes in sports-related industries(sports apparel, footwear and accessories manufacturing, sports services, sports distribution).\r\nIt is prohibited to sell the font itself for a fee, or modifying it in any form and to redistribute the font.\r\nIt is prohibited to usage which might have a negative effect on HAKSAN Limited(including subsidiary) or anti-social productions(such as pornography).\r\nThe results that are using VITRO font can be used for promotion of HAKSAN Limited.\r\nIf you do not wish to do so, you can request it to us at any time.\r\n\r\nContact vitro_font@haksanlimited.com\r\n© 2020. HAKSAN Limited All Rights Reserved."
+        },
+        "License Info URL": {
+          "en": "http://www.vitro.co.kr/vitro/font.html"
+        },
+        "Typographic Family": {
+          "ko": "비트로 프라이드 OTF",
+          "en": "VITRO PRIDE OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'busandandiscript';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./busandandiscript.woff2') format('woff2');
+}

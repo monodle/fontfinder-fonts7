@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'myarirang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./myarirang.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'myarirang_gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./myarirang_gothic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'myhaemalgeunsangsang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./myhaemalgeunsangsang.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'myyeongnamnu';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./myyeongnamnu.woff2') format('woff2');
+}
